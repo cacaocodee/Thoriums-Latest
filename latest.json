@@ -1,10 +1,10 @@
 {
-  "version": "0.2.5",
-  "notes": "Thoriums 0.2.5",
-  "pub_date": "2026-05-24T17:00:00Z",
+  "version": "0.2.6",
+  "notes": "Thoriums 0.2.6",
+  "pub_date": "2026-05-25T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkhzRjFBdVJ6NHlkTnNMNW11b2E0QVRvZkc0c0lWY21qUVhJTlJCNW1TYytac05qWXREK1p2bkxPaVFKZllJZy9DUXEvRlhRVFl1ZkNWY1YvWDJJY0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjQ1NDc0CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpMOFJqUmJtcTBVVGZWMzR6YVBzK1haVmVOYmpRUkFaRE5pYmUxaWdoQzBaNFRNZmUrZVlwSmdtaVErR2lURXA0VTIwcm5ZT2hBWHJjQ0kzWEptbDJBUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVlBCNHBhTlNLdS9NRGhJeXA3eEJEMkYwcVl0QUxwcHpvTXBucktWQm5xR2JZUlZLSjErMU16M0RoU0paRHEzN0RJMXU2MHN0dWkrVGFEdE9aVjNFMGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjUwNjMzCWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpORzdnV2hucTFXTzBKeWVjZVZ4cENmV2k3SU1FbWlWMGRnWDYxcXh4S2I5ekdwYzUzdGwzdjJwdFpDaGI0anc0Uk0yL3RHb3BNWnZ3YWJ6dEJUYmdEQT09Cg==",
       "url": "https://cacaocodee.github.io/Latest-Thoriums/Thoriums.app.tar.gz"
     }
   }
