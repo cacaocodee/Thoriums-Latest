@@ -1,10 +1,10 @@
 {
-  "version": "0.2.7",
-  "notes": "Thoriums 0.2.7 (527157b)",
-  "pub_date": "2026-05-24T21:04:05Z",
+  "version": "0.2.8",
+  "notes": "Thoriums 0.2.8 hardens sensitive default settings and requires explicit torrent search provider opt-in.",
+  "pub_date": "2026-05-25T05:09:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkR1TW1MQnQ3cWwwOWY1ZmpqWHZZOWQxUXhFMTIyMDdYRm1iL2hGSlNGMDgxTVBDcll5U0FySVN1WGlvVEU2RFoxbHRnMVRJbk1iSkRTTGVKY09ZL3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjU2NjE3CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negoya1dyeEFDNUJZWXZSWXVoeFVGOWthTzh5dHdXeWpYM2wzTk1PdXQ0MW01YktOeXBGWlMzNmxpQWg4bnV4YnZnNGZybkw3aVFoUG0yZUZPYlpmVlpBQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkhmNmRzOFc2bTg3enhoUFJhQ1NWd0V4ZE9zT1VpUFNGNEU4RWcrVzJuNnFqS0l3aE9MTU5FK25ZYjhMbkU0a1dndEFibCtVMFlhNGhtQlRpZUdsY2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjYwNTU1CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpwbVhDK1NCZ1BRaGZZc0JUVXBMamF6dWp1dWRueFI2b1NzMTZQdjZVdXA1RDVTNVhvZE0wcFBMMTZuWWViUjFpYjhTOFcrYTA5NTNLdmNEVE8vOU9EZz09Cg==",
       "url": "https://cacaocodee.github.io/Latest-Thoriums/Thoriums.app.tar.gz"
     }
   }
