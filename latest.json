@@ -1,6 +1,6 @@
 {
   "version": "0.2.12",
-  "notes": "Tải phụ đề tiếng Anh và tiếng Việt tự động khi tải video Bilibili.",
+  "notes": "Automatically download English and Vietnamese subtitles when downloading Bilibili videos.",
   "pub_date": "2026-05-25T16:56:35Z",
   "platforms": {
     "darwin-aarch64": {
