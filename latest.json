@@ -1,10 +1,10 @@
 {
-  "version": "0.2.9",
-  "notes": "Thoriums 0.2.9 adds browser integration UI polish and keeps the updater dialog above About when checking for updates.",
-  "pub_date": "2026-05-25T09:56:03Z",
+  "version": "0.2.10",
+  "notes": "Thoriums 0.2.10 sets the default app window to 1200\u00d7720 while keeping the minimum size at 720\u00d7480.",
+  "pub_date": "2026-05-25T10:32:58Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkpKdlV2SkllQURCYmZNZmMvTlJhOU44YzFRZWk2TWN3RXNxaC8vWHl5MXRGZ0lRUExYdnRQbTd1UEFHRWNJR29DalJ6MFNEOURFMnhEUnFvckx0bUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Njk5NDI1CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpCTThUSXEvTkV6eTZLWnNwc0h3bDFBaTFzVU9mdFJmT2Z3dUNiTk1qVzVaZ292d0pvZ09CTHRBRnNFY1o2NjQ4RzZnU1FGcDlJYVIyOVY0NTZnT1VBUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkNrL1RQb29KRitrYXc4NVEzSVBjOW9iTEcreStNaVRDbC9yR29rU3RuK0VpcmZaQjMxUnByTGxLNkp1Qi85Zk53dXZhK05TTmw4Nnl3STlObFdmWUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzA1MDc4CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negowY3pIV21YM2xBNWZ5eWhjc2UxRmd6WGtHUTB3Q0pQa0YxVVAzK0xBTE40ZDYwckQ3VEFhS0JBaFczZVhnME9uS0ZsdG83TjNDU0F5ZVY2bzNBWTFCUT09Cg==",
       "url": "https://cacaocodee.github.io/Latest-Thoriums/Thoriums.app.tar.gz"
     }
   }
