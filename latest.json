@@ -1,10 +1,10 @@
 {
-  "version": "0.2.13",
-  "notes": "Improve Chrome extension publishing readiness and video capture for YouTube, Facebook, and TikTok.",
-  "pub_date": "2026-05-26T00:54:54Z",
+  "version": "0.2.14",
+  "notes": "Fix minor bugs",
+  "pub_date": "2026-05-26T01:13:52Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkY4eWlvcDcwWHd5UlBZazE0NmtBdC9nZkE3S3hQVTl1YWNlVURsbnVCM1RyWjBhSVlmemxDeFRXRXIrbW5SdnVHS0YwY2tEZ1dEeTJnMnpyMlhucFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzU2ODQ3CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpCc2dqTmlUendUeTlRQmdIR0hLVUJrZkJabncvNFpIK2FxUW00VEZrenFFaFF0MTk2UVcyMEZiL1grcHhza2IwSGE3TFVodkZHTGlZMSt1K1FsY0RBQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVksvMUNhRjN0ekx2aTVWVTdHWVZEZUV2UUR0UllETm5Kc2l5K243djV0MTVKS0RkMGpwSzVHMlk3eG0wZHJ6KzNxKzZMY0hHQVpLVFJ3MmMrTWgwK1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzU4MDEzCWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpoMkd3YklQV3BrU3RQTS8xZnAxdVpCbE14TnErU3V4c21WNmZQNk94czFEWUhiRzMzTng2SngxTEVBemdmWlhSWVEzZFdmWldYeU9mbVlIcU40enpDUT09Cg==",
       "url": "https://cacaocodee.github.io/Latest-Thoriums/Thoriums.app.tar.gz"
     }
   }
