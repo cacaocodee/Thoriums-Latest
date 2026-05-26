@@ -1,10 +1,10 @@
 {
-  "version": "0.2.12",
-  "notes": "Automatically download English and Vietnamese subtitles when downloading Bilibili videos.",
-  "pub_date": "2026-05-25T16:56:35Z",
+  "version": "0.2.13",
+  "notes": "Improve Chrome extension publishing readiness and video capture for YouTube, Facebook, and TikTok.",
+  "pub_date": "2026-05-26T00:54:54Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkMyeWowNTN3RUFiMVhxT1B4Ym5meDhLSjV0Y3grNUY4S2pYR2d1aHNsMEVBeWJCUllWYy84S0kxQmtLa2FreWcxMTYxTnlQUXE4VUI2RjRkY2M4NkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzI3OTEyCWZpbGU6VGhvcml1bXMuYXBwLnRhci5negplWGRrSm5nTzFCdEIzZzRvaTU2bDlid21COXNPLzd1U0xPRDNrc0lXWjQ0WVkzN0pRVEwvcG13WHQzZ3B2QTJKSlc1Tk1vdHd0UlpBR2YzN0xvM2hDdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkY4eWlvcDcwWHd5UlBZazE0NmtBdC9nZkE3S3hQVTl1YWNlVURsbnVCM1RyWjBhSVlmemxDeFRXRXIrbW5SdnVHS0YwY2tEZ1dEeTJnMnpyMlhucFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzU2ODQ3CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpCc2dqTmlUendUeTlRQmdIR0hLVUJrZkJabncvNFpIK2FxUW00VEZrenFFaFF0MTk2UVcyMEZiL1grcHhza2IwSGE3TFVodkZHTGlZMSt1K1FsY0RBQT09Cg==",
       "url": "https://cacaocodee.github.io/Latest-Thoriums/Thoriums.app.tar.gz"
     }
   }
