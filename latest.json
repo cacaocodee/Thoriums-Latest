@@ -5,7 +5,7 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkYvcHk3N3BUeE9kTHplWU05TDlteDVONTlCb0lmUUJYZ3MxWUVDTnFkYmR0MldIbzQvS05kbTVQWi81V0M2VU90bXl4ZHE2cDAwZSsvdUVYMFIrZXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDI5NjcyCWZpbGU6VGhvcml1bXMuYXBwLnRhci5negp6N2RXOHBDZzZBVGxsYkNVU0NnN1FpMWJxR0IwRndlWkRXWHFsZjlHYTVGRHZEUnFjSFB0SkhiUHVzYlBRN2wzSWtwSExPYU1hQXpaM1FveHFrNXNEUT09Cg==",
-      "url": "https://cacaocodee.github.io/Latest-Thoriums/Thoriums.app.tar.gz"
+      "url": "https://github.com/cacaocodee/Latest-Thoriums/releases/download/v0.2.19/Thoriums.app.tar.gz"
     }
   }
 }
