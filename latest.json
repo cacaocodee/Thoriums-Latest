@@ -1,11 +1,11 @@
 {
-  "version": "0.2.24",
-  "notes": "Torrent peer discovery fix: add public trackers alongside DHT so downloads no longer sit at 0 B/s for 60+ seconds waiting on a cold DHT bootstrap (private trackers unaffected). Peer count now shows only live/usable peers. HTTP downloads: batched disk writes for better throughput, and transient errors now retry from the last written byte instead of failing the whole download. Added on-disk logging for diagnosing torrent issues.",
-  "pub_date": "2026-07-03T00:00:00Z",
+  "version": "0.2.25",
+  "notes": "Redesigned toolbar: compact icon actions that always fit on a single row, with tooltips, cleaner grouping, and a red destructive hover on the clear buttons. Window minimum width raised to 900px.",
+  "pub_date": "2026-07-04T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVlBXeDd2RncyeVFyb2x3VkpoM2N5VzlYL3BsUXBDTzNnc0JIVDVGUHlKZEZMdGM2QjZ1MVcrby9XcGpyMzlpY09KTzN2cTZWajc5RFJENHNDbkdQdXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDE0OTA3CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negp2UTA1OWViaXI2LzlOZHo5bEN6by8wWGVqSE1kcWk1T0xZZ2VsT0xkcDlXK3E5c3IzKzlVclJtUnJsRlRzQXJiTkt5cFlLZW9FVE1YTnY5WUdpUzBCZz09Cg==",
-      "url": "https://github.com/cacaocodee/Latest-Thoriums/releases/download/v0.2.24/Thoriums.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkVrcEh1TCthMTY5c2Z5S1JBckJUM2pmdUI5VjI0aVZmckNxTWdiQVpUV1FIMXdkOG5PLzZxNDJrSHhvQ2lGbUZYUEk3Mm05L3lQK0ZLd2VMbDFQWmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDc5NDg2CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negp4RWxmOGFjeUNHTEttQldSQWlBSlV3VFJ2a01Yd1E1dkM2czlJRTBWL3RXMkdjTHR0U3FIL0gyYVZMZXZGR1NWbEd4Z05yT291VTlCbmN0VWt0L2NEUT09Cg==",
+      "url": "https://github.com/cacaocodee/Latest-Thoriums/releases/download/v0.2.25/Thoriums.app.tar.gz"
     }
   }
 }
