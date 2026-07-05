@@ -1,11 +1,11 @@
 {
-  "version": "0.2.26",
-  "notes": "Fix torrents showing a high phantom download speed with 0 peers during the initial checksum pass. The status now reads \"Checking\" with progress % instead of \"Downloading\" while verifying on-disk data.",
+  "version": "0.2.27",
+  "notes": "Torrent progress now reflects reality after data loss: if a crash or unclean disk unmount invalidates downloaded data, the progress bar drops to the true value instead of staying frozen at 100% while re-downloading. Resume no longer fails when the original .torrent tracker URL has expired — torrent metadata is cached locally.",
   "pub_date": "2026-07-05T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkw2cGRkbm9WOU80WWVFcDh1ajlOK1JEZWV6a0w0T2g3UUFoSHA2SzI2enY4TXhnR1QrblhhK2RmTG1DV3NuQzlnNEpUbG85NjVjZ2hEL3BoSFJ4SFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjE2NDQzCWZpbGU6VGhvcml1bXMuYXBwLnRhci5negp4N3dzQmV3dC9WNXVpdG95Z0VMTFVveVFMN3oyb0wwdllGWW5CWTNBNy93NWdZdTloTUdlRnR0UzdraS9RUjJjL1FuYnVWR004K1dMb0lOUHB4S05Bdz09Cg==",
-      "url": "https://github.com/cacaocodee/Latest-Thoriums/releases/download/v0.2.26/Thoriums.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVktScTgrZ204dE9nTkpJTmt6WkhNVE9aa0lLOUFSV0Nzcllwekp3Mm5kMDdhY2dqbW01QUp5TXFobldPMWxaRWNKYlV4Qi9hUnVvYXRlN1M3N21Vd0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjE4MzUxCWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpXMU5scjBrbzE3Yk1LTGNLdzVmblJTREpFdnJ4WEdpVlpLZE9Ta28xV0RqdmRLUW55OXZ1RnpIZkZNNGZIUmJmR21KcDN2Y1NKZVJQY0k2ZE42dlpBUT09Cg==",
+      "url": "https://github.com/cacaocodee/Latest-Thoriums/releases/download/v0.2.27/Thoriums.app.tar.gz"
     }
   }
 }
