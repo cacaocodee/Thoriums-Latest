@@ -1,11 +1,11 @@
 {
-  "version": "0.2.27",
-  "notes": "Torrent progress now reflects reality after data loss: if a crash or unclean disk unmount invalidates downloaded data, the progress bar drops to the true value instead of staying frozen at 100% while re-downloading. Resume no longer fails when the original .torrent tracker URL has expired — torrent metadata is cached locally.",
+  "version": "0.2.28",
+  "notes": "New Telegram bot command: /clear — clears completed downloads from the list (files are kept), same as the toolbar button. Added to the bot command menu and /help.",
   "pub_date": "2026-07-05T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVktScTgrZ204dE9nTkpJTmt6WkhNVE9aa0lLOUFSV0Nzcllwekp3Mm5kMDdhY2dqbW01QUp5TXFobldPMWxaRWNKYlV4Qi9hUnVvYXRlN1M3N21Vd0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjE4MzUxCWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpXMU5scjBrbzE3Yk1LTGNLdzVmblJTREpFdnJ4WEdpVlpLZE9Ta28xV0RqdmRLUW55OXZ1RnpIZkZNNGZIUmJmR21KcDN2Y1NKZVJQY0k2ZE42dlpBUT09Cg==",
-      "url": "https://github.com/cacaocodee/Latest-Thoriums/releases/download/v0.2.27/Thoriums.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkRZb0lrNUF5QkFvOW1IQy8xZE1XaHdDbXRFdGUrVkNKaEhHNVNXaFZMUGlrdDRzYmdCbDNUeG8ycm9WbEFQV2NEMkl2R2JQNTdwOFlUeEh6UlM1MFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjM5ODc1CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpvN0VqMTd0blFvY253MG9NMmxyTmN0UG1uOHlpTDR4dU5FWEd4RHdmZjZiTFRpTS9xV0I1TkRFUjJsbUhMMHNFMXdINERLbEJtbExmM21CaHU4VXFEZz09Cg==",
+      "url": "https://github.com/cacaocodee/Latest-Thoriums/releases/download/v0.2.28/Thoriums.app.tar.gz"
     }
   }
 }
