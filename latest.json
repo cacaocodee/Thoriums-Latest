@@ -1,11 +1,11 @@
 {
-  "version": "0.2.29",
-  "notes": "Maintenance: moved the auto-update endpoint to the renamed Thoriums-Latest repository. Update to this version to keep receiving automatic updates.",
-  "pub_date": "2026-07-05T00:00:00Z",
+  "version": "0.2.30",
+  "notes": "New app icon: a redesigned Mjolnir (Thor's hammer) with a lightning bolt, crisp at all sizes.",
+  "pub_date": "2026-07-06T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVk82Z0xyejdKWnFpUjBkV1BsZm40VURZM1pxSDNtSkJuNUoxR1VyWUJydXN5L0lmQXdLN2VUZE9oZSs4YmNrdFlnSDRsRTFDaUR6cUZ0bE5LKzNha3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjYxNjc2CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negp6L1AxOCtKeGlZcmZjUWd1Y2RyVzkvSGJkdnRFcjMwOURReTVsa1pRbUdEdWJYNWRKM0xNakRjK25DOUJoRmVMZ3VTRVRlcUNLWnJLeFlidWNzdlhCQT09Cg==",
-      "url": "https://github.com/cacaocodee/Thoriums-Latest/releases/download/v0.2.29/Thoriums.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVlB5KzN5SVVlN1RiRUE3VWV3L1gra1lQdjNxc1BRcGJUajdrY3lFOWN1YWM0dS9EZjZUU3pjc015akVzcTZqVVBNTTR1QjU5UkZsTTQ5VVJhU0tYUVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjYyMTYyCWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpJRjBoY1QxRDFBR3RJWkhTdk9HbURzeFpRNjFWSGpsRUhNVURWSmtnVXp5V0lQVnJqYjZqY1dneUtaMHZRd0Mzb0ZYNnBwaXdReVFzR0duRU13YnJDdz09Cg==",
+      "url": "https://github.com/cacaocodee/Thoriums-Latest/releases/download/v0.2.30/Thoriums.app.tar.gz"
     }
   }
 }
