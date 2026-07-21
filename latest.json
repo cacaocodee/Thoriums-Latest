@@ -1,11 +1,11 @@
 {
-  "version": "0.2.36",
-  "notes": "Resuming a torrent now waits 5 seconds before re-attaching, avoiding errors when resuming right after a pause.",
-  "pub_date": "2026-07-06T00:00:00Z",
+  "version": "0.2.37",
+  "notes": "Smoother, lighter download list during active transfers.",
+  "pub_date": "2026-07-22T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVko2Z2ExZUxFVFROT0dZSDRFZkNoNFhLQUczNi9FUUtOU29KTjNValB5ZEZrY1RlR29IK2F2QzU2T2g4M24zUU5PSnZKZWt2dVlsZy8wN2dXa0pkemdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzA4MjM0CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpQSjVUVHV4S2NKUWl5Mk9QNHdjRUt4NTU5WVRET3lCN3BWMkFGSHh3Z1VlRkZTLzc5M3R6MjBIblFXaDhpY3ZTSm4rTlhCNzRUSlpJU01raFpTOUZCZz09Cg==",
-      "url": "https://github.com/cacaocodee/Thoriums-Latest/releases/download/v0.2.36/Thoriums.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkg5c0lxSjdacm9NU0JzczhybmNTeUN6bWpsNWtzVEt6TkZKUXB3a3d5Z2x1cEp0eTVDandEWXdNZS9ZNGFvUkx2SG9ycjdVZmRDd1A2d1JjMkxQQ0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Njc1NjM0CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpjVFUzVFpnOU9hcDMybmNSUjBGcGxIT1gxWjNLWW5lYkpuZDdsbjBTcWozL3lDaEF2c2lqZm1aL2RNS1NFenVzdmZ0L1FjTDl2T2Z3enFLS1VjNGVEdz09Cg==",
+      "url": "https://github.com/cacaocodee/Thoriums-Latest/releases/download/v0.2.37/Thoriums.app.tar.gz"
     }
   }
 }
